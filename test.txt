@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-this is my anoter commit!
-=======
-This is again a commit!
->>>>>>> feature
+This is another commit!
 
 And here we go with commit #2!
